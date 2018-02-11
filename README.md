@@ -1,9 +1,9 @@
 # shecodes-wc
 
-##Project Title
+## Project Title
 exercise - read file and wc all strings in it print the number of appearances for each word
 
-##Getting Started
+## Getting Started
 - step 1 - configure github account and connect remote repo to local git repo
 - step 2 - get_file method
 - step 3 - split file to line and then words, print each word
@@ -12,7 +12,7 @@ exercise - read file and wc all strings in it print the number of appearances fo
 - step 6 - create counter for each word in dictionary
 - step 7 - print output
 
-##Prerequisites
+## Prerequisites
 - python 2.7 +
 - pycharm IDE
 - github account
