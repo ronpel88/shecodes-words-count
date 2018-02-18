@@ -15,7 +15,7 @@ if __name__ == '__main__':
         with alice_in_wonderland as f:
             for line in f:
                 for word in line.split():
-                    formatted_word = word.strip(',.:-;?`!').lower()
+                    formatted_word = word.strip(',.:-;?`)(!').lower()
                     # print formatted_word
                     if formatted_word in alice_wc_dictionary:
                         alice_wc_dictionary[formatted_word] += 1
