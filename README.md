@@ -16,3 +16,5 @@ exercise - read file and wc all strings in it print the number of appearances fo
 - python 2.7 +
 - pycharm IDE
 - github account
+
+test
